@@ -4,6 +4,13 @@ The SWAPR front-end thin client.
 
 *Does not work with node7; use node6*
 
+Need the following installed before the following directions:
+- homebrew
+- bower
+- ruby
+- npm
+
+
 ## Installing node6 with homebrew
 If you haven't installed node with homebrew before, just do
 
