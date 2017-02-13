@@ -16,6 +16,10 @@ If you haven't installed node with homebrew before, just do
 
 	brew install node@6
 
+Link node:
+
+	brew link --force node
+	
 If you already have node installed with homebrew, do
 
 	brew unlink node
